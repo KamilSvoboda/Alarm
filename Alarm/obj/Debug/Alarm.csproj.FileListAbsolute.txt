@@ -1,0 +1,17 @@
+C:\Users\kasvo\Documents\Visual Studio 2008\Projects\Alarm\Alarm\bin\Debug\Alarm.exe
+C:\Users\kasvo\Documents\Visual Studio 2008\Projects\Alarm\Alarm\bin\Debug\Alarm.pdb
+C:\Users\kasvo\Documents\Visual Studio 2008\Projects\Alarm\Alarm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kasvo\Documents\Visual Studio 2008\Projects\Alarm\Alarm\obj\Debug\Alarm.Properties.Resources.resources
+C:\Users\kasvo\Documents\Visual Studio 2008\Projects\Alarm\Alarm\obj\Debug\Alarm.csproj.GenerateResource.Cache
+C:\Users\kasvo\Documents\Visual Studio 2008\Projects\Alarm\Alarm\obj\Debug\Alarm.exe
+C:\Users\kasvo\Documents\Visual Studio 2008\Projects\Alarm\Alarm\obj\Debug\Alarm.pdb
+C:\Users\kasvo\Documents\Visual Studio 2008\Projects\Alarm\Alarm\obj\Debug\Alarm.MainForm.resources
+C:\Users\kasvo\Documents\Visual Studio 2008\Projects\Alarm\Alarm\bin\Debug\Alarm.exe.manifest
+C:\Users\kasvo\Documents\Visual Studio 2008\Projects\Alarm\Alarm\bin\Debug\Alarm.application
+C:\Users\kasvo\Documents\Visual Studio 2008\Projects\Alarm\Alarm\obj\Debug\Alarm.exe.manifest
+C:\Users\kasvo\Documents\Visual Studio 2008\Projects\Alarm\Alarm\obj\Debug\Alarm.application
+C:\Users\kasvo\Documents\Visual Studio 2008\Projects\Alarm\Alarm\obj\Debug\Alarm.ApplicationResources.resources
+C:\Users\kasvo\Documents\Visual Studio 2008\Projects\Alarm\Alarm\obj\Debug\Alarm.AboutForm.resources
+C:\Users\kasvo\Documents\Visual Studio 2008\Projects\Alarm\Alarm\bin\Debug\cs-cz\Alarm.resources.dll
+C:\Users\kasvo\Documents\Visual Studio 2008\Projects\Alarm\Alarm\obj\Debug\Alarm.ApplicationResources.cs-cz.resources
+C:\Users\kasvo\Documents\Visual Studio 2008\Projects\Alarm\Alarm\obj\Debug\cs-cz\Alarm.resources.dll
